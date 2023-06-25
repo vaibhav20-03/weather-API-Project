@@ -1,0 +1,20 @@
+body{
+    background-image: url("bg2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 200;
+}
+p,label{
+    font-size: 30px;
+    color: black;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 70px;
+}
+input{
+    border: none;
+    font-size: 30px;
+    border-bottom: 2px solid;
+}
